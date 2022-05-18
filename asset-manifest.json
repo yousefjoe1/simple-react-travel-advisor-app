@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-react-travel-advisor-app/static/css/main.fda1f505.css",
+    "main.js": "/simple-react-travel-advisor-app/static/js/main.5b9b2b3e.js",
+    "index.html": "/simple-react-travel-advisor-app/index.html",
+    "main.fda1f505.css.map": "/simple-react-travel-advisor-app/static/css/main.fda1f505.css.map",
+    "main.5b9b2b3e.js.map": "/simple-react-travel-advisor-app/static/js/main.5b9b2b3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fda1f505.css",
+    "static/js/main.5b9b2b3e.js"
+  ]
+}
